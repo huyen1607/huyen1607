@@ -12,24 +12,17 @@
 
 **`Engineer of many trades`**
 
-I'm an indie app developer, working on projects that benefit tinkerers, engineers, and people that I know. Currently, I'm running the "[comfyStudio team](https://comfystudio.tech/)" with 2 projects: "[comfySSH](https://github.com/ThomasVuNguyen/ComfySSH_flutter)" and "[PipeLine](https://github.com/ThomasVuNguyen/PipeLine)". comfySSH is a cross-platform simple & customizable application to remotely control Raspberry Pi & components (also a great general Linux SSH tool) and PipeLine is a Revit/AutoCAD plug-in solution to help MEP Engineers automate their work & save time.
+I'm a Data Analyst passionate about doing research in AI field. Decided to take a double major in my Junior in a completely different field (Applied Information Engineering), I believe that it is never too late for a girl to pursue her STEM career. 
 
-Moreover, I work as a Plumbing Engineer, working with AutoCAD & Revit, helping make buildings come true in Florida. This is where the majority of inspiration for "[PipeLine](https://github.com/ThomasVuNguyen/PipeLine)" is from.
+I am currently working as a Data Analyst and Software Engineer, working with Python and React JS, Flask, Firebase at "[SmallMachines](https://www.smallmachines.co.kr/)", a Medical Devices Company based in Seoul. I am helping make AI-driven healthcare services accessible and affordable for everyone. 
 
-As if two responsibilities aren't enough, I'm also working with "[Core Prototyping](https://www.coreprototyping.xyz/)" as an Electronic & Prototyping Engneer. Spawn from my passion for tinkering with Raspberry Pi & open-source projects and my professional experience working as a Manufacturing Engineer Intern at "[Sonoco](https://www.sonoco.com/)" and "[Tesla](https://www.tesla.com/)", this job turned an in-the-basement hobby into a career.
-
+Moreover, I'm also working with "[comfyStudio Team](https://comfystudio.tech/)" to build comfySSH, a cross-platform simple & customizable application to remotely control Raspberry Pi & components (also a great general Linux SSH tool). 
 
 ### 🧰 Languages and Tools
-<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
-<img align="left" alt="Raspberry Pi" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="WordPress" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"/>
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="tesla" style="padding-right:10px;" width="30px" src ="https://github.com/ThomasVuNguyen/ThomasVuNguyen/assets/70709101/16f5e054-057d-4650-b80c-08f97807336b"/>
+<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <br />

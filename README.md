@@ -10,7 +10,7 @@
   </a>
 </div>
 
-**`Engineer of many trades`**
+<br/>
 
 I'm a Data Analyst passionate about doing research in AI field. Decided to take a double major in my Junior in a completely different field (Applied Information Engineering), I believe that it is never too late for a girl to pursue her STEM career. 
 
